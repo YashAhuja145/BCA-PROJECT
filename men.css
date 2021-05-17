@@ -81,3 +81,13 @@ body{
 
 /* lets try it*/
 
+
+
+  /* Navbar */
+  
+  .sticky
+  {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
