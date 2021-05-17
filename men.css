@@ -1,10 +1,24 @@
+.img-fluid:hover{
+  transition:width 1s , height 1s;
+  height: 300px;
+  width: 230px;
+}
+body{
+  background : rgb(174, 247, 247)
+}
+
+.grid-wrapper{
+  
+}box-shadow:rgba(0, 0, 0, 0.8) 0px 5px 15px, inset rgba();
+
+/*----------------------------------------------------------------------------------------*/
 .column {
 	float: left;
 	width: 15%;
 	padding: 0 10px;
   margin-left: 100px;
-  margin-right: 40px;
-  }
+  margin-right: 40px; 
+}
   
   /* Remove extra left and right margins, due to padding */
   .row {

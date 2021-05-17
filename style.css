@@ -3,6 +3,12 @@ body
 {
     background: wheat;
 }
+.img-fluid:hover
+{
+  transition: transform 1s , height 1s; 
+  transform: rotate(360deg);
+  height : 350px;
+} 
 
 .brandname
 {
