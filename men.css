@@ -1,10 +1,15 @@
 .img-fluid:hover{
-  transition:width 1s , height 1s;
-  height: 300px;
-  width: 230px;
+  transition:all 1s;
+  transform : scale(1.1);
 }
 body{
   background : rgb(174, 247, 247)
+}
+.card-title{
+  font-family:  'Yanone Kaffeesatz', sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  text-shadow: 0 1px;
 }
 
 
