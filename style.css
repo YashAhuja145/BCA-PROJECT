@@ -5,8 +5,7 @@ body
 }
 .img-fluid:hover
 {
-  transition: transform 1s , height 1s; 
-  transform: rotate(360deg);
+  transition: transform 2s , height 2s; 
   height : 350px;
 } 
 
