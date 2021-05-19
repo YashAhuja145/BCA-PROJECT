@@ -3,7 +3,7 @@
   transform : scale(1.1);
 }
 body{
-  background : rgb(174, 247, 247)
+  background : rgb(0, 0, 0)
 }
 .card-title{
   font-family:  'Yanone Kaffeesatz', sans-serif;
@@ -123,3 +123,7 @@ background-color: rgb(77, 75, 75);
     top: 0;
     width: 100%;
   }
+
+  /****************************/
+
+  
